@@ -1,8 +1,7 @@
 local settings = require("settings")
 local icons = require("icons")
 
-local meeting_bar = sbar.add("alias", "widgets.meetingbar", {
-	type = "meetingbar",
+local meeting_bar = sbar.add("alias", "MeetingBar,Item-0", {
 	position = "right",
 	update_freq = 10,
 	icon = {
