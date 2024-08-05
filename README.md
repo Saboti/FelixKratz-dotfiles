@@ -33,4 +33,5 @@ https://github.com/FelixKratz/dotfiles/tree/7cef83fc577bb8853c01d6aae66fdc6625fe
 https://github.com/FelixKratz/dotfiles/tree/6fbd917f745df1bac7f84ef930feecb67df0cb10 (shell-config):
 <img width="1512" alt="desktop" src="https://user-images.githubusercontent.com/22680421/211197150-f1ff3f18-4b1a-4c6c-8174-ff70997af0fd.png">
 
-
+# GitHub Enterprise
+git push --mirror https://git.i.mercedes-benz.com/TMUNDIN/FelixKratz-dotfiles
